@@ -1,5 +1,5 @@
 {
-  "name": "slbgf",
+  "name": "JotaRoyal",
   "version": "1.6.0",
   "description": "Customizable WhatsApp Bot",
   "depecrated": false,
@@ -19,13 +19,13 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/Sotravil/slbgf",
+  "homepage": "https://github.com/JotaRoyal/JotaRoyal",
   "author": {
     "name": "Sotravil.last"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sotravil/slbgf.git"
+    "url": "git+https://github.com/JotaRoyal/JotaRoyal.git"
   },
   "bugs": {
     "url": "https://github.com/Nurutomo/wabot-aq/issues"
