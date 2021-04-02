@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hola soy sotravil
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hola soy JotaRoyal
 <p align="center">
 <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/999691b4-e557-4058-87d8-6b6a398c8837-profile_image-300x300.png" width="128" height="128"/>
 </p>
@@ -10,18 +10,18 @@
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Slbot bot-yellow?colorA=%#ff00d4&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Sotravil"><img title="Author" src="https://img.shields.io/badge/Author-Sotravil-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/JotaRoyal"><img title="Author" src="https://img.shields.io/badge/Author-JotaRoyal-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Sotravil/followers"><img title="Seguidores" src="https://img.shields.io/github/followers/Sotravil?color=blue&style=flat-square"></a>
-<a href="https://github.com/Sotravil/slbgf/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Sotravil/slbgf?color=red&style=flat-square"></a>
-<a href="https://github.com/Sotravil/slbgf/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Sotravil/slbgf?color=red&style=flat-square"></a>
-<a href="https://github.com/Sotravil/slbgf/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Sotravil/slbgf?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://www.codefactor.io/repository/github/Sotravil/slwb"><img src="https://www.codefactor.io/repository/github/mhankbarbar/termux-wabot/badge" alt="CodeFactor" /></a>
+<a href="https://github.com/JotaRoyal/followers"><img title="Seguidores" src="https://img.shields.io/github/followers/JotaRoyal?color=blue&style=flat-square"></a>
+<a href="https://github.com/JotaRoyal/slbgf/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/JotaRoyal/slbgf?color=red&style=flat-square"></a>
+<a href="https://github.com/JotaRoyal/slbgf/network/members"><img title="Forks" src="https://img.shields.io/github/forks/JotaRoyal/slbgf?color=red&style=flat-square"></a>
+<a href="https://github.com/JotaRoyal/slbgf/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/JotaRoyal/slbgf?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://www.codefactor.io/repository/github/JotaRoyal/slwb"><img src="https://www.codefactor.io/repository/github/mhankbarbar/termux-wabot/badge" alt="CodeFactor" /></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
 </p>
 
-<img src="https://github.com/Sotravil/animaciones/blob/main/46400cbacaf8eb1b36a89cdcd7da6740_w200.gif" alt="Hacker" width="600" />
+<img src="https://github.com/JotaRoyal/animaciones/blob/main/46400cbacaf8eb1b36a89cdcd7da6740_w200.gif" alt="Hacker" width="600" />
 <div align="center">
 
 
@@ -49,8 +49,8 @@ Bot Basico de WhatsApp
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/Sotravil/slbgf
-> cd slbgf
+> git clone https://github.com/JotaRoyal/JotaRoyal
+> cd JotaRoyal
 > bash install.sh
 ```
 ###### LANZAR BOT
@@ -66,7 +66,7 @@ Bot Basico de WhatsApp
 * Descarga e instala FFMPEG [`Click Here`](https://ffmpeg.org/download.html) (don't forget to path) 
 * Descarga e instala ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6) 
 ```bash
-> git clone https://github.com/Sotravil/slbgf 
+> git clone https://github.com/JotaRoyal/JotaRoyal
 > cd slbgf
 >bash install.sh
 > node index.js
@@ -84,7 +84,7 @@ Bot Basico de WhatsApp
 
 <details>
 
-## Recodificador: [Sotravil](https://wa.me/19728806294)
+## Recodificador: [JotaRoyal](https://wa.me/34644364340)
 Script: @Narutomo 
 
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif"/>
@@ -93,7 +93,7 @@ Script: @Narutomo
 
 </p>
 
-[GITHUB](https://github.com/Sotravil)
+[GITHUB](https://github.com/JotaRoyal)
 
 ## Mis grupos
 * <a href="https://chat.whatsapp.com/CFrlehcnibhDLmd3nLXr2B"><img alt="WhatsApp" src="https://img.shields.io/badge/Grupo%20De WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
