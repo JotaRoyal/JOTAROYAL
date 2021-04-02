@@ -116,7 +116,7 @@ global.reloadHandler = function () {
     conn.off('group-leave', conn.onLeave)
   }
   conn.welcome = 'Hola, @user!\nBienvenido al grupo @subject'
-  conn.bye = 'adios @user!'
+  conn.bye = 'Adiós @user!'
   conn.handler = handler.handler
   conn.onAdd = handler.welcome
   conn.onLeave = handler.leave
