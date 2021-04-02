@@ -108,7 +108,7 @@ Script: @Narutomo
 ## Mis Redes Sociales
 
 
-[<img src="https://github.com/Sotravil/animaciones/blob/main/whatsapp.gif" width="50px">](https://wa.me/19728806294) [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" width="50px">](https://instagram.com/sotravil.last?igshid=l7miu0x3iefy) [<img src="https://github.com/Sotravil/animaciones/blob/main/371907120_YOUTUBE_ICON_TRANSPARENT_400.gif" width="50px">](https://youtube.com/channel/UCkXj_lgLhVqBfMleNQ06PqQ)
+[<img src="https://github.com/JotaRoyal/animaciones/blob/main/whatsapp.gif" width="50px">](https://wa.me/34644364340) [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" width="50px">](https://instagram.com/sotravil.last?igshid=l7miu0x3iefy) [<img src="https://github.com/Sotravil/animaciones/blob/main/371907120_YOUTUBE_ICON_TRANSPARENT_400.gif" width="50px">](https://youtube.com/channel/UCkXj_lgLhVqBfMleNQ06PqQ)
 
 
 </details>
