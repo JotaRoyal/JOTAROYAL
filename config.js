@@ -1,5 +1,5 @@
-global.owner = ['5493855392870', '19728806294', '5491127904475', '5491138073299', '51947924204', '56982616845', '5492614854601', '5492616982430', '34684640711', '5491158215370'] // Put your number here
-global.mods = ['5493855392870'] // Want some help?
+global.owner = ['34644364340'] // Put your number here
+global.mods = ['34644364340'] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -12,8 +12,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'whatsapp bot'
-global.author = 'Sotravil.last'
+global.packname = 'STICKERS'
+global.author = '@JotaRoyal'
 
 global.multiplier = 69 // The higher, The harder levelup
 
