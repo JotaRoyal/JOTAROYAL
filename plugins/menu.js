@@ -84,13 +84,13 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 │ nivel *%level (%exp / %maxexp)* [%xp4levelup para siguiente nivel]
 │ %totalexp Experiencia total
 │ 
-│ Fecha: %date*
+│ Fecha: *%date*
 │ Hora: *%time*
 │
 │ tiempo de actividad: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
-│ Github:
-│ %github
+│ Sígueme:https://www.instagram.com/jotaroyal
+│
 ╰────
 %readmore`
     let header = conn.menu.header || '╭─「 %category 」'
